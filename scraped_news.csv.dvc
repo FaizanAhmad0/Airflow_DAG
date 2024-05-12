@@ -1,0 +1,5 @@
+outs:
+- md5: d63925975c04adc3c8ae4c226b04e7d4
+  size: 592713
+  hash: md5
+  path: scraped_news.csv
